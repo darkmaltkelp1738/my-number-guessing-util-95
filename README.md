@@ -1,2 +1,9 @@
-# my-number-guessing-util-95
-A simple number guessing project
+# Number Guessing
+
+A simple number guessing project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
